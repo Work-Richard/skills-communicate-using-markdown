@@ -8,3 +8,7 @@
 ``` powershell
 $test = "This is a test"
 ```
+- [ ] This
+- [x] Is
+- [x] A
+- [ ] List
